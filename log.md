@@ -2,9 +2,9 @@
 
 ### Day 1: Jan 3, 2017
 
-** Today's progress:
-** Thoughts:
-** Link to work:
+** Today's progress:Working on dev portfolio. Has been a codepen project. Working on pulling it over to Github.
+** Thoughts: Excited for this challenge! Day one is great so far. Feeling focused and ready to do this!
+** Link to work:https://codepen.io/aeleblanc/pen/ZBMGwG
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
