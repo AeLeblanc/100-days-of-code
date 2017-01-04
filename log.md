@@ -6,6 +6,11 @@
 ** Thoughts: Excited for this challenge! Day one is great so far. Feeling focused and ready to do this!
 ** Link to work:https://codepen.io/aeleblanc/pen/ZBMGwG
 
+### Day 2: Jan 4, 2017
+** Today's progress:Hacksaw Landing Page project
+** Thoughts: Still excited and going strong!
+** Link to work: https://beta.hacksaw.academy/work_preview/36e091e2-6a1c-4eef-8a49-31c35fb8ee44/
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
