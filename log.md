@@ -11,32 +11,11 @@
 ** Thoughts: Still excited and going strong!
 ** Link to work: https://beta.hacksaw.academy/work_preview/36e091e2-6a1c-4eef-8a49-31c35fb8ee44/
 
-<!--### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 3: Jan 5, 2017
+** Today's progress:Forked my dev portfolio on codepen to focus on creating a more functional contact form.
+** Thoughts: When I get stuck, doing research and finding a solution or a better way is extremely rewarding. Thats why I am so passionate about coding! There's always another option and always more to learn. Even though I was struggling with my initial idea for the contact form, I haven't given up. Forking is great! I will have to go back to the original concept later once I have learned more.
+** Link to work: https://codepen.io/aeleblanc/pen/apzgzg
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
