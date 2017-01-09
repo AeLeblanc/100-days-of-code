@@ -16,6 +16,19 @@
 ** Thoughts: When I get stuck, doing research and finding a solution or a better way is extremely rewarding. Thats why I am so passionate about coding! There's always another option and always more to learn. Even though I was struggling with my initial idea for the contact form, I haven't given up. Forking is great! I will have to go back to the original concept later once I have learned more.
 ** Link to work: https://codepen.io/aeleblanc/pen/apzgzg
 
+## Day 4: Jan 6, 2017
+**Today's progress: more work on portfolio - pushed to github
+**Thoughts:yay progress! I have been working on pulling from codepen to github for a bit. Final step when portfolio is ready to go live is to push it via github
+**Link:https://github.com/AeLeblanc/dev-port
 
+## Day 5: Jan 7, 2017
+**Today's progress: playing with javascript image galleries trying to pick just the right one for my portfolio.
+**Thoughts: options are good but overwhelming. so hard to choose just one!
+**Link: not live. just forked versions that haven't been pulled yet.
+
+## Day 6: Jan 8, 2017
+**Today's progress:working through hacksaw academy's portfolio project to get some ideas for my own.
+**Thoughts: so many ideas... need to find a way to put all the right ones together.
+**Link:none until project is completed.
 
 
