@@ -31,4 +31,8 @@
 **Thoughts: so many ideas... need to find a way to put all the right ones together.
 **Link:none until project is completed.
 
+## Day 7: Jan 9, 2017
+**Today's progress: Learning how to make CSS images.
+**Thoughts: this will be very useful since it seems that curved/non-rectangular headings are very popular right now. May be able to implement in personal portfolio.
+**Link: http://codepen.io/aeleblanc/pen/EZVBLJ 
 
