@@ -36,3 +36,7 @@
 **Thoughts: this will be very useful since it seems that curved/non-rectangular headings are very popular right now. May be able to implement in personal portfolio.
 **Link: http://codepen.io/aeleblanc/pen/EZVBLJ 
 
+## Day 8: Jan 10, 2017
+**Today's progress: Practicing CSS images.
+**Thoughts: So much fun!
+**Link: http://codepen.io/aeleblanc/full/rjxmpm/
