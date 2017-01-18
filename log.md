@@ -40,3 +40,13 @@
 **Today's progress: Practicing CSS images.
 **Thoughts: So much fun!
 **Link: http://codepen.io/aeleblanc/full/rjxmpm/
+
+## Day 9: Jan 11, 2017
+**Today's progress: Practicing CSS images.
+**Thoughts: Getting creative with it ;)
+**Link: http://codepen.io/collection/nWGjOb/
+
+## Day 10: Jan 12, 2017 - Day 15:Jan 17, 2017:
+**Today's progress: forked dev portfolio to new code pen to try some more javascript and enhance the page.
+**Thoughts: This is difficult but I'm determined to get it worked out!
+**Link: http://codepen.io/aeleblanc/pen/LxbEYJ?editors=1100
