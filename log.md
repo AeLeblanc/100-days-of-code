@@ -50,3 +50,19 @@
 **Today's progress: forked dev portfolio to new code pen to try some more javascript and enhance the page.
 **Thoughts: This is difficult but I'm determined to get it worked out!
 **Link: http://codepen.io/aeleblanc/pen/LxbEYJ?editors=1100
+
+## Day 16: Jan 18, 2017 - Day 18:Jan 20, 2017:
+**Today's progress: more work on the portfolio. my nav bar was giving me some issues but they are worked out now!
+**Thoughts: Finally in a good place to start working on other projects to fill this portfolio out!
+**Link: http://codepen.io/aeleblanc/pen/LxbEYJ
+
+##Day 19: Jan21 - Day 23: Jan25:
+**Today's progress: working through javascript on FCC.
+**Thoughts: picking up funtions and variables fairly easily. trying to get through to algorithms.
+**Link: https://www.freecodecamp.com/aeleblanc
+
+**Day 24 Jan 26 - Day 25 Jan 27:
+** Today's progress: hacksaw projects email catcher
+**THoughts:
+**Link: https://beta.hacksaw.academy/editor/12/
+
